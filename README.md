@@ -1,5 +1,5 @@
 # ACCOMPLISH
-**Argentii's Compiled Collection Of Minor Personal Linux Interface Style Hints. **
+**Argentii's Compiled Collection Of Minor Personal Linux Interface Style Hints.**
 ___
 I experiment with numerous devices, and all of them are set up differently in terms of style. Thus, it's become challenging to   
 keep tabs on everything.   
