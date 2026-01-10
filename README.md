@@ -1,8 +1,8 @@
 # ACCOMPLISH
 **Argentii's Compiled Collection Of Minor Personal Linux Interface Style Hints. **
 ___
-I experiment with numerous devices, and all of them are set up differently in terms of style. Thus, it's become challenging to 
-keep tabs on everything. 
-***No Longer!***
+I experiment with numerous devices, and all of them are set up differently in terms of style. Thus, it's become challenging to   
+keep tabs on everything.   
+***No Longer!***  
 This is intended to be a mix of dotfiles, useful scripts, and notes on how I use things/set things up.
 ___
