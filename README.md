@@ -5,4 +5,5 @@ I experiment with numerous devices, and all of them are set up differently in te
 keep tabs on everything.   
 ***No Longer!***  
 This is intended to be a mix of dotfiles, useful scripts, and notes on how I use things/set things up.
+Also serves as foray into using markdown.
 ___
